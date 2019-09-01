@@ -1,0 +1,64 @@
+div.header
+{
+	z-index: 999;
+	margin-top: 30px !important;
+	margin-bottom: 30px !important;
+	margin-right: auto !important;
+	margin-left: auto !important;
+	opacity: 0.85;
+
+	text-align:center;
+	
+	position:static;
+
+	padding-top: 0px;
+	padding-bottom: 0px;
+	padding-left: 15px;
+	padding-right: 15px;
+	width:80%;
+	max-width: 800px !important;
+    background-color: #3a3535;
+	color:grey;
+	cursor: default;
+
+	-moz-box-shadow: 3px 3px 5px #202020;
+    -webkit-box-shadow: 3px 3px 5px #202020;
+    box-shadow: 3px 3px 5px #202020;
+	border-bottom-left-radius: 8px;
+	border-bottom-right-radius: 8px;
+	border-top-left-radius: 8px;
+	border-top-right-radius: 8px;
+}
+
+div.header_text
+{
+	padding-top:10px;
+	margin-bottom: 0px;
+}
+
+img.logo
+{
+	margin-top: 5px;
+}
+
+a.header_item
+{
+	text-decoration:none;
+	display:inline-block;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top:10px;
+	margin-bottom:10px;
+	/*font-family: DejaVu Sans Mono, Liberation Mono, Consolas, Ubuntu Mono, Courier New;*/
+	font-size: 100%;
+	color:#A8A8A8 !important;
+}
+
+a.header_item:hover
+{
+	color:white !important;
+}
