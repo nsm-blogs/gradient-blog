@@ -1,0 +1,19 @@
+<div class="footer">
+	<div class="footer_text">Gradient Blog Template</div>
+
+	<noselect>
+		<img src="@pathtofile(site/img/nsm.png)" width="100px" style="margin-bottom:20px"> <br>
+	</noselect>
+
+	<b>Mirrors:</b> 
+	[<a href="https://nsm-blogs.github.io/gradient-blog" class="footer_item">GitHub</a>] 
+	[<a href="https://nsm-blogs.gitlab.io/gradient-blog" class="footer_item">GitLab</a>] 
+
+	<p style="margin-top:0px; margin-bottom: 0px">
+		<small>Site Manager: <a class="footer_item" href="https://nift.cc">Nift</a></small>
+	</p>
+
+	<noselect>
+		<small>&copy;&nbsp;2015 - @loadYYYY <a class="footer_item" href="https://n-ham.com/">Nicholas Ham</a></small>
+	</noselect>
+</div>
