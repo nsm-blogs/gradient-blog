@@ -52,8 +52,10 @@ pre
 
 	/*picks the first available font and resizes*/
 	font-family: DejaVu Sans Mono, Liberation Mono, Consolas, Ubuntu Mono, Courier New;
-	font-size: 85%;
+	font-size: 90%;
 	tab-size: 4;
+
+	color: #33312d;
 
 	max-width: 90%;
 	/*overflow: auto;*/
